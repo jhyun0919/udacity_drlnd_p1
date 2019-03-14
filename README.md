@@ -25,5 +25,5 @@ A reward of +1 is provided for collecting a yellow banana, -1 is provided for co
 
 # Instructions
 
-You can check out the details of this project on the backup page.
 You can check out about the design & results of the experiment on this project in [here]().
+
