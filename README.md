@@ -19,7 +19,7 @@ A reward of +1 is provided for collecting a yellow banana, -1 is provided for co
 
 ## Step 1: Clone the Repository
 
-To clone this git repository, put following commandline.
+To clone this git repository, put a following commandline.
 
 ```
 $ git clone https://github.com/jhyun0919/udacity_drlnd_p1.git
