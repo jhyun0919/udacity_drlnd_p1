@@ -48,7 +48,7 @@ After download it, you need to place the file in the root directory of this proj
 
 ## Step 3: Set virtual environment for this project
 
-The project dependency is listed in [requirements.txt]().  
+The project dependency is listed in [requirements.txt](https://github.com/jhyun0919/udacity_drlnd_p1/blob/master/requirements.txt).  
 The dependency can be met with the following command:
 
 ```
