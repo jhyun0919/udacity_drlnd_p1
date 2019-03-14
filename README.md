@@ -19,6 +19,15 @@ A reward of +1 is provided for collecting a yellow banana, -1 is provided for co
 
 ## Step 1: Clone the Repository
 
+To clone this git repository, put following commandline.
+
+```
+$ git clone 
+```
+
+
+## Step 2: Download the Unity Environment
+
 For this project, you need to download the Unity Environment from one ot the links below.
 
 * [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
@@ -28,10 +37,6 @@ For this project, you need to download the Unity Environment from one ot the lin
 * [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
 After download it, you need to place the file in the root directory of this project repository.
-
-## Step 2: Download the Unity Environment
-
-
 
 ## Step 3: Set virtual environment for this project
 
