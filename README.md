@@ -22,7 +22,7 @@ A reward of +1 is provided for collecting a yellow banana, -1 is provided for co
 To clone this git repository, put following commandline.
 
 ```
-$ git clone 
+$ git clone https://github.com/jhyun0919/udacity_drlnd_p1.git
 ```
 
 
