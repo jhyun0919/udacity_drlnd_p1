@@ -48,6 +48,13 @@ After download it, you need to place the file in the root directory of this proj
 
 ## Step 3: Set virtual environment for this project
 
+The project dependency is listed in [here]().
+The dependency can be met with the following command:
+
+```
+$ pip install -r requirements.txt
+```
+
 # Instructions
 
 You can check out about the design & results of the experiment on this project in [here]().
