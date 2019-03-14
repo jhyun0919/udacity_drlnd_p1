@@ -48,7 +48,7 @@ After download it, you need to place the file in the root directory of this proj
 
 ## Step 3: Set virtual environment for this project
 
-The project dependency is listed in [here]().
+The project dependency is listed in [here]().  
 The dependency can be met with the following command:
 
 ```
