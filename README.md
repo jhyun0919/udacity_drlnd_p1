@@ -20,6 +20,8 @@ A reward of +1 is provided for collecting a yellow banana, -1 is provided for co
 * Number of actions: 4 (move forward and backward, turn right and left)
 
 
+## Solving the environment
+
 **The agent must get an average score of +13 over 100 consecutive episodes**
 
 
