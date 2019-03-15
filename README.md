@@ -57,6 +57,6 @@ The dependency can be met with the following command:
 $ pip install -r requirements.txt
 ```
 
-# Instructions
+# Solutions
 
 You can check out about the description of the implementation & results of the experiment on this project in [Navigation.ipynb]() & [Report.pdf]().
