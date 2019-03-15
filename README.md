@@ -57,5 +57,4 @@ $ pip install -r requirements.txt
 
 # Instructions
 
-You can check out about the design & results of the experiment on this project in [Report.ipynb]().
-
+You can check out about the description of the implementation & results of the experiment on this project in [Navigation.ipynb]() & [Report.pdf]().
