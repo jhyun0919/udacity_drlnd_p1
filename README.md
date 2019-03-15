@@ -10,7 +10,7 @@ Following is the process and results I have done.
 
 ## The environment
 
-In square world, an agent navigate and collect bananas(yellow and blue).  
+For this project, we will train an agent to navigate and collect bananas(yellow and blue) in a square world.  
 
 The purpose of this project is training an agent to collect yellow bananas as many as possible while avoiding blue ones.
 A reward of +1 is provided for collecting a yellow banana, -1 is provided for collecting blue one.
