@@ -59,4 +59,4 @@ $ pip install -r requirements.txt
 
 # Solutions
 
-You can check out about the description of the implementation & results of the experiment on this project in [Navigation.ipynb]() & [Report.pdf]().
+You can check out about the description of the implementation & results of the experiment on this project in [Navigation.ipynb]() & [Report.pdf](https://github.com/jhyun0919/udacity_drlnd_p1/blob/master/Report.ipynb).
